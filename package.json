@@ -8,17 +8,11 @@
   },
   "dependencies": {
     "@hono/node-server": "^2.1.1",
-    "@prisma/composer": "0.11.0",
-    "@prisma/composer-prisma-cloud": "0.11.0",
     "hono": "^4.13.3"
   },
   "devDependencies": {
-    "@prisma/composer-cli": "0.11.0",
     "@types/node": "^26.1.1",
     "tsx": "^4.23.0",
     "typescript": "^7.0.2"
-  },
-  "overrides": {
-    "effect": "4.0.0-beta.103"
   }
 }
