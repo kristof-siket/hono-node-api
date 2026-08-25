@@ -8,10 +8,13 @@
   },
   "dependencies": {
     "@hono/node-server": "^2.1.1",
+    "@prisma/composer": "0.12.0",
+    "@prisma/composer-prisma-cloud": "0.12.0",
     "hono": "^4.13.3"
   },
   "devDependencies": {
     "@types/node": "^26.1.1",
+    "prisma": "8.0.0-rc.9",
     "tsx": "^4.23.0",
     "typescript": "^7.0.2"
   },
